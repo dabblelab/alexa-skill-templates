@@ -4,7 +4,7 @@ This is a monorepo for all of the sample code referenced in videos on the Dabble
 
 ## 2017 Videos 
 
-2017-07-21-01: [Run a Node app in Docker in 5-minutes] (./2017-07-21-01/)
+2017-07-21-01: [Run a Node app in Docker in 5-minutes](./2017-07-21-01/)
 
 2017-07-15-02: [A sample chatbot with Amazon Lex in 6-minutes](./2017-07-15-02/)
 
