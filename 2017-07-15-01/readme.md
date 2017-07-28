@@ -1,9 +1,9 @@
 # A custom Amazon Alexa Skill in 14-minutes
 
-This video walks through creating a simple custom skill using Node.js and AWS Lambda. The goal is to show the high-level steps for creating a custom Alexa skill - from scratch - without using one of the Amazon skill templates. This is a follow-on to a previous video (https://youtu.be/kxdmkz9JWQA), that covered creating an Alexa skill using one of the skill templates provided by Amazon.  
+This video walks through creating a simple custom skill using Node.js and AWS Lambda. The goal is to show the high-level steps for creating a custom Alexa skill - from scratch - without using an Amazon Alexa skill blueprint (template). This is a follow-on to a previous video (https://youtu.be/kxdmkz9JWQA), that covered creating an Alexa skill using one of the skill templates provided by Amazon.  
 
 ### NOTE: click the image below to view the video on YouTube
-[![A custom Amazon Alexa Skill in 14-minutes](http://img.youtube.com/vi/edPrPcRMUM0hQOq8QgjTgw/0.jpg)](http://www.youtube.com/watch?v=RMUM0hQOq8Q)
+[![A custom Amazon Alexa Skill in 14-minutes](http://img.youtube.com/vi/RMUM0hQOq8Q/0.jpg)](http://www.youtube.com/watch?v=RMUM0hQOq8Q)
 
 The AWS Command Line Interface is required for the demo in this video. It can be downloaded from [http://aws.amazon.com/cli](http://aws.amazon.com/cli). 
 
