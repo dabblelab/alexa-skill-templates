@@ -6,6 +6,11 @@ This video shows how to get a Node.js app running inside a Docker container on a
 
 For this demo to work, [Docker](http://docker.com) and [Node.js](http://nodejs.org) need to be installed.
 
+### NOTE: click the image below to view video
+[![Docker with Node.js in 5-minutes](http://img.youtube.com/vi/edPrPcgjTgw/0.jpg)](http://www.youtube.com/watch?v=edPrPcgjTgw)
+
+## Demo Steps 
+
 ### 1. Create an app directory and use NPM to create a package.json file and add the Express framework. 
 
 ```bash
