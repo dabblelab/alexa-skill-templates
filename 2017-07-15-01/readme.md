@@ -25,7 +25,7 @@ var handlers = {
 
 };
 ```
-### Base code for the publish.sh script
+### Bash code for the publish.sh script
 
 ```Bash
 SKILL_NAME=$1
