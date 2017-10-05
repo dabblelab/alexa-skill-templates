@@ -1,5 +1,7 @@
 # Locally testing Lambda functions used for Alexa skills
 
+[![Locally testing Lambda functions used for Alexa skills](http://img.youtube.com/vi/_2s2o5vM1Z4/0.jpg)](http://www.youtube.com/watch?v=_2s2o5vM1Z4)
+
 Using AWS Lambda is a great way to host skill services for Amazon Alexa. But, when you're getting started, a common question is - how do you test your Lambda functions without having to deploy them first?
 
 It's actually pretty easy, but it's even easier when you understand how Node modules work. So, I'll start with a quick overview of Node modules.
