@@ -5,7 +5,7 @@ This video walks through creating a simple custom skill using Node.js and AWS La
 ### NOTE: click the image below to view the video on YouTube
 [![A custom Amazon Alexa Skill in 14-minutes](http://img.youtube.com/vi/RMUM0hQOq8Q/0.jpg)](http://www.youtube.com/watch?v=RMUM0hQOq8Q)
 
-The AWS Command Line Interface is required for the demo in this video. It can be downloaded from [http://aws.amazon.com/cli](http://aws.amazon.com/cli). 
+The AWS Command Line Interface is required for the demo in this video. It can be downloaded from [http://aws.amazon.com/cli](http://aws.amazon.com/cli).
 
 ### basic skill code
 ```javascript

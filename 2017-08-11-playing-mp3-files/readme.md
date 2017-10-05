@@ -1,8 +1,10 @@
-# Using SSML Audio
+# Playing mp3 audio files in an Alexa skill using SSML
 
-Speech Synthesis Markup Language (SSML) provides you will more control over how Alexa generates the speech for a skill response. You might use SSML if you wanted Alexa to read a string of digits back as a standard telephone number for example. Speech Synthesis Markup Language (SSML) would let you do that - and much more.
+[![A custom Amazon Alexa Skill in 14-minutes](http://img.youtube.com/vi/pKlnpf0SsoE/0.jpg)](http://www.youtube.com/watch?v=pKlnpf0SsoE)
 
-SSML is an open standard for marking up text to generate synthetic speech. The Alexa Skills Kit supports a subset of the tags defined in the [SSML specification](https://www.w3.org/TR/speech-synthesis/). The [SSML tags supported by the Alexa Skills Kit are listed here](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#ssml-supported).
+Want to include audio clips in your skill responses? You can do that using Speech Synthesis Markup Language (SSML).
+
+SSML is an open standard for marking up text to generate synthetic speech and one of the tags provided lets you play audio files. The Alexa Skills Kit supports a subset of the tags defined in the [SSML specification](https://www.w3.org/TR/speech-synthesis/). The [SSML tags supported by the Alexa Skills Kit are listed here](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#ssml-supported). But, in this video we'll just be looking at the "audio" tag.
 
 
 NOTE: For your audio files to work with Alexa, make sure they are encoded correctly. See [Converting Audio Files to an Alexa-Friendly Format](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#h3_converting_mp3) for details.
@@ -30,4 +32,3 @@ var handlers = {
   }
 };
 ```
-

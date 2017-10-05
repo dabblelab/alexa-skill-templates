@@ -1,0 +1,3 @@
+HelloIntent say hello
+HelloIntent hi
+HelloIntent hello

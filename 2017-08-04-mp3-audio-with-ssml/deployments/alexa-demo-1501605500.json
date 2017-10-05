@@ -1,0 +1,14 @@
+{
+    "CodeSha256": "Eq6eG6F67BaD4KfW67EUoNJm8FnrG56stKsJPgwo0zc=", 
+    "FunctionName": "alexa-demo", 
+    "CodeSize": 4650498, 
+    "MemorySize": 128, 
+    "FunctionArn": "arn:aws:lambda:us-east-1:851751148026:function:alexa-demo", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::851751148026:role/lambda_basic_execution", 
+    "Timeout": 30, 
+    "LastModified": "2017-08-01T16:38:25.489+0000", 
+    "Handler": "index.handler", 
+    "Runtime": "nodejs6.10", 
+    "Description": ""
+}

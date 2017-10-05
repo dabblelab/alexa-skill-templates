@@ -1,0 +1,18 @@
+{
+    "CodeSha256": "YIeLZQ48q6xiJ2VWEKfwAATvbf0jkTIodorogcaAhfs=", 
+    "FunctionName": "alexa-demo", 
+    "VpcConfig": {
+        "SubnetIds": [], 
+        "SecurityGroupIds": []
+    }, 
+    "MemorySize": 128, 
+    "FunctionArn": "arn:aws:lambda:us-east-1:851751148026:function:alexa-demo", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::851751148026:role/lambda_dynamo", 
+    "Timeout": 30, 
+    "LastModified": "2017-08-04T19:57:01.953+0000", 
+    "Handler": "index.handler", 
+    "Runtime": "nodejs6.10", 
+    "CodeSize": 4650533, 
+    "Description": ""
+}

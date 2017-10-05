@@ -1,0 +1,14 @@
+{
+    "CodeSha256": "7ZBYDFpdyFORfLY2kHO5dN5jnsTNqriXuccOfqAn1WM=", 
+    "FunctionName": "hello-world-alexa-skill", 
+    "CodeSize": 4650438, 
+    "MemorySize": 128, 
+    "FunctionArn": "arn:aws:lambda:us-east-1:851751148026:function:hello-world-alexa-skill", 
+    "Version": "$LATEST", 
+    "Role": "arn:aws:iam::851751148026:role/lambda_basic_execution", 
+    "Timeout": 30, 
+    "LastModified": "2017-08-16T15:23:44.175+0000", 
+    "Handler": "index.handler", 
+    "Runtime": "nodejs6.10", 
+    "Description": ""
+}
