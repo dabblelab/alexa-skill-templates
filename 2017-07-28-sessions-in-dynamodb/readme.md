@@ -8,13 +8,13 @@ Want to create a custom Alexa skill that remembers information about users? This
 ### NOTE: click the image below to view the video on YouTube
 [![A 5-minutes](http://img.youtube.com/vi/cNJvyv0nYaw/0.jpg)](http://www.youtube.com/watch?v=cNJvyv0nYaw)
 
-NOTE: This is a follow-up to my last Alexa video that walks through [creating a basic custom skill](../2017-07-15-01). It would be best to watch that video before this one if you haven't allready. 
+NOTE: This is a follow-up to my last Alexa video that walks through [creating a basic custom skill](../2017-07-15-01). It would be best to watch that video before this one if you haven't already. 
 
-## Demo Steps 
+## Demo Steps
 
 ## 1. A simple custom skill
 
-This is code for a super simple custom skill - our starting point. 
+This is code for a super simple custom skill - our starting point.
 
 ```javascript
 var Alexa = require('alexa-sdk');
@@ -39,10 +39,10 @@ var handlers = {
 Login to the [Amazon Developer Console](http://developer.amazon.com/alexa) and add an intent named 'RememberName' to your 'hello world' skill with one required slot called 'name' and a slot type of AMAZON.US_FIRST_NAME.
 
 Add code to handel RememberName intent
- 
+
 ```javascript
   'RememberName': function () {
-    
+
     var nameSlot = this.event.request.intent.slots.name.value;
 
     var name;
@@ -67,7 +67,7 @@ this.attributes['userName'] = name;
 
 ## 3 Create DynamoDB table and set dynamoDBTableName
 
-Login to you [Amazon Web Services](http://aws.amazon.com) account and create a DynamoDB table named 'HelloWorld' with a primary key named "userId" with a string data type. 
+Login to you [Amazon Web Services](http://aws.amazon.com) account and create a DynamoDB table named 'HelloWorld' with a primary key named "userId" with a string data type.
 
 Update your skill code to include the value for dynamoDBTableName link in the example below.
 
@@ -84,7 +84,7 @@ exports.handler = function (event, context, callback) {
 
 ## 4. Add code to check for a new / existing user
 
-Update your handler code to promot for the user name and check for the session attribute. 
+Update your handler code to promot for the user name and check for the session attribute.
 
 ```javascript
   'LaunchRequest': function () {
@@ -106,7 +106,7 @@ Update your handler code to promot for the user name and check for the session a
 
 ```
 
-## 5. Deploy and test the the final code 
+## 5. Deploy and test the the final code
 
 Deploy your Lambda function
 
@@ -140,7 +140,7 @@ var handlers = {
   },
 
   'RememberName': function () {
-    
+
     var nameSlot = this.event.request.intent.slots.name.value;
 
     var name;
