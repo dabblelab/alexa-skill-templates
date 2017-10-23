@@ -1,0 +1,10 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+    "updateDate": "2017-10-23T22:34:51.0Z",
+    "titleText": "A hello world audio clip",
+    "mainText": "",
+    "streamUrl": "https://s3.amazonaws.com/flash-briefing-example/flash-briefing-1.mp3",
+    "redirectionUrl": "http://youtube.com/dabblelab"
+  }
+]
