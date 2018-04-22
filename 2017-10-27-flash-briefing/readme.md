@@ -3,7 +3,7 @@
 [![How to create a Flash Briefing Skill](http://img.youtube.com/vi/CiiLkKNgyhc/0.jpg)](http://www.youtube.com/watch?v=CiiLkKNgyhc)
 
 ## Overview
-A flash briefing skill adds content to the built-ing Alexa flash briefings functionality. A flash briefing skill can provides updates in the form of audio clips or text that Alexa reads to users. Flash Briefing skills are a great way to deliver blog summaries, podcast updates, and timely notifications, among other things.
+A flash briefing skill adds content to the built-in Alexa flash briefings functionality. A flash briefing skill can provide updates in the form of audio clips or text that Alexa reads to users. Flash Briefing skills are a great way to deliver blog summaries, podcast updates, and timely notifications, among other things.
 
 Each flash briefing skill includes one or more content feeds. So, when users enable flash briefing skills, they can simply say, “Alexa, give me my flash briefing” to hear all of content from each of the flash briefing skills they've enabled.
 
