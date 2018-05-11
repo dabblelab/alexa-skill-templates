@@ -1,6 +1,6 @@
 # Create Alexa Skills Without Coding Using Skill Blueprints
 
-[![{title}](http://img.youtube.com/vi/Fuwgy98LZdA/0.jpg)](http://www.youtube.com/watch?v=Fuwgy98LZdA)
+[![Create Alexa Skills Without Coding Using Skill Blueprints](http://img.youtube.com/vi/Fuwgy98LZdA/0.jpg)](http://www.youtube.com/watch?v=Fuwgy98LZdA)
 
 ## Overview
 Yesterday (04/19/2018) Amazon introduced [Alexa Skill Blueprints](https://blueprints.amazon.com/), a new way to create personalized skills and responses for Alexa. In this video I'll walk-through how to create a quick Quiz skill and I'll do it in few minutes without writing a single line of code.

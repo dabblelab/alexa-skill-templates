@@ -1,9 +1,9 @@
-# NodeJS for Building Alexa Skills - Video #3: Intro to Modules
+# NodeJS for Building Alexa Skills - Video #5: Using Promises, async & Await
 
-[![NodeJS for Building Alexa Skills - Video #3: Intro to Modules](http://img.youtube.com/vi/s-_Fh7CgP_4/0.jpg)](http://www.youtube.com/watch?v=s-_Fh7CgP_4)
+[![NodeJS for Building Alexa Skills - Video #5: Using Promises, async & Await](http://img.youtube.com/vi/Ze6krw1W-mg/0.jpg)](http://www.youtube.com/watch?v=Ze6krw1W-mg)
 
 ## Overview
-This is the 3rd video in a series for new Alexa developers who are also new to NodeJS. In this video, I'll provide an introduction to Node modules and show you how to use built-in and 3-party modules to call an external API and get the current price of bitcoin. This video builds on the previous videos in this series so if you have not watched those, you may want to check them out first.
+This is the fith video in a series for new Amazon Alexa developers who are also new to programming with Node.js. In this video, we look at different ways to write asynchronous functions using Promises and the async/await keywords as opposed to using the callback method introduced in video #1.
 
 ### Video in this Series
  - [NodeJS for Building Alexa Skills - Video #1: Asynchronous Functions](https://youtu.be/2j8QLFxneOw)
