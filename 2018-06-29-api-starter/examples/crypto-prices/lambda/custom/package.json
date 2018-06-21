@@ -1,0 +1,15 @@
+{
+  "name": "dabblelab-api-starter",
+  "version": "1.0.0",
+  "description": "An example Alexa skill that shows how to call an external API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dabble Lab",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0",
+    "ask-sdk-model": "^1.0.0"
+  }
+}
