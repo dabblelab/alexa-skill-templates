@@ -13,6 +13,6 @@ Subscribe - http://youtube.com/dabblelab
 
 ≡≡ CONNECT WITH US  ≡≡
 
-website - http://dabblelab.com
-twitter - http://twitter.com/dabblelab
-facebook - http://facebook.com/dabblelab
+- website - http://dabblelab.com
+- twitter - http://twitter.com/dabblelab
+- facebook - http://facebook.com/dabblelab
