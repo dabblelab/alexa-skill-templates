@@ -1,7 +1,7 @@
 Cortana Skill Development - Part 9 - Dabble Lab #138
 ---
 
-[![VIDEO: Cortana Skill Development - Part 9 - Dabble Lab #138](http://img.youtube.com/vi/dcB9mwaor7I/0.jpg)](https://youtu.be/dcB9mwaor7I)
+[![VIDEO: Cortana Skill Development - Part 9 - Dabble Lab #138](http://img.youtube.com/vi/dcB9mwaor7I/sddefault.jpg)](https://youtu.be/dcB9mwaor7I)
 
 ## Description
 
