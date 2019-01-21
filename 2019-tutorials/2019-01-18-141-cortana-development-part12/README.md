@@ -1,11 +1,11 @@
-Cortana Skill Development - Part 11 - Dabble Lab #140
+Cortana Skill Development - Part 12 - Dabble Lab #141
 ---
 
-<a href="https://youtu.be/viw3stAU90eJXY0hc"><img src="http://img.youtube.com/vi/viw3stAU90eJXY0hc/maxresdefault.jpg" alt="Cortana Skill Development - Part 11 - Dabble Lab #140" height="480" /></a>
+<a href="https://youtu.be/eQ5zNnEIwFg"><img src="http://img.youtube.com/vi/eQ5zNnEIwFg/maxresdefault.jpg" alt="Cortana Skill Development - Part 12 - Dabble Lab #141" height="480" /></a>
 
 ## Description
 
-In this video we'll be working with LUIS, Microsoft's Language Understanding
+In this video we'll be working with Adaptive Cards.
 
 ≡≡ VIDEOS IN THIS SERIES ≡≡
 
