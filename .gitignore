@@ -1,8 +1,10 @@
 notes.md
 script.md
-videos/
-node_modules/
-builds/
-_temp/
-_templates/
-_assets/
+videos
+builds
+_temp
+_templates
+_assets
+node_modules
+.DS_Store
+.env
