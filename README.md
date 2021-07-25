@@ -2,7 +2,7 @@
 
 # Alexa Skill Template
 
-Since 2017, Dabble Lab has shared [over 300 tutorials](https://youtube.com/dabblelab) and [50+ code templates](https://skilltemplates.com) for learning Alexa development. We use this repository to provide support for our templates. If you have comments or questions about any of our templates, you can [post them here](https://github.com/dabblelab/alexa-skill-templates/discussions) for the quickest response. 
+Since 2017, Dabble Lab has shared [over 300 tutorials](https://youtube.com/dabblelab) and [50+ code templates](https://skilltemplates.com) for learning Alexa development. We're now using this repository to provide support for our templates. So, if you have questions or comments about any of our templates, you can [post them here](https://github.com/dabblelab/alexa-skill-templates/discussions) and we'll respond as quickly as possible. 
 
 ## About the templates
 
