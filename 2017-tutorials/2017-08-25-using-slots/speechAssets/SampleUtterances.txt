@@ -1,3 +1,0 @@
-HelloIntent hello
-HelloIntent hi
-HelloIntent hey
